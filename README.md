@@ -1,16 +1,69 @@
-### Hi there 👋
+### Hi there, Ali Hejazi  👋
 
-<!--
-**AliHejazi1382/AliHejazi1382** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a Android Developer!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I just made my YouTube: [Phantom Programmers](https://www.youtube.com/channel/UC-MpdWkXlHi_k3QO42NMqLA?view_as=subscriber)!
+- 🌱 I’m currently learning everything to be a better developer 💪
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to solve phisics problem
+
+
+
+### Connect with me:
+
+
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC-MpdWkXlHi_k3QO42NMqLA?view_as=subscriber)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ali-hejazi-3b36781a3/)
+
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Android Studio" width="26px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />](https://developer.android.com/studio)
+[<img align="left" alt="HTML5" width="26px" src="https://file.io/22tdTw9AavRg" />](https://www.b4x.com/b4a.html)
+[<img align="left" alt="CSS3" width="40px" src="https://file.io/lL7Ds6CP2kX1" />](https://www.oracle.com/java/technologies/)
+
+
+<br />
+<br />
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Button On Click Listener With Toast|Android Studio Tutorial](https://youtu.be/QkVcLJ5aQR4)
+
+
+➡️ [more videos...](https://www.youtube.com/channel/UC-MpdWkXlHi_k3QO42NMqLA?view_as=subscriber)
+
+---
+
+### 📕 Latest Reposetories
+
+<!-- BLOG-POST-LIST:START -->
+- [CustomToast](https://github.com/AliHejazi1382/CustomToast)
+- [StandardSettings](https://github.com/AliHejazi1382/StandardSetting)
+- [CustomTextView](https://github.com/AliHejazi1382/CustomTextView)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more Reposetories...](https://github.com/AliHejazi1382?tab=repositories)
+
+---
+
+
+
+
+
+[website]: https://codeSTACKr.com
+[course]: http://vsCodeHero.com
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
