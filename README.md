@@ -21,6 +21,9 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="Android Studio" width="26px" src="https://file.io/q70iugz3XzVY" />](https://developer.android.com/studio)
+[<img align="left" alt="HTML5" width="26px" src="https://file.io/rc86sm1tkkzV" />](https://www.b4x.com/b4a.html)
+[<img align="left" alt="CSS3" width="40px" src="https://file.io/0lUG9aEJEYq1" />](https://www.oracle.com/java/technologies/)
 
 
 <br />
@@ -31,8 +34,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-"https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"
-- [Button On Click Listener With Toast|Android Studio Tutorial](https://youtu.be/QkVcLJ5aQR4)
+
 
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC-MpdWkXlHi_k3QO42NMqLA?view_as=subscriber)
