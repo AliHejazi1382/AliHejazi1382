@@ -6,7 +6,7 @@
 - 🔭 I just made my YouTube: [Phantom Programmers](https://www.youtube.com/channel/UC-MpdWkXlHi_k3QO42NMqLA?view_as=subscriber)!
 - 🌱 I’m currently learning everything to be a better developer 💪
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to solve phisics problem
+- ⚡ Fun fact: I love to solve phisics problem!!
 
 
 
