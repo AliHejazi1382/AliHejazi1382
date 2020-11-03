@@ -21,10 +21,11 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Android Studio" width="26px" src="https://file.io/q70iugz3XzVY" />](https://developer.android.com/studio)
-[<img align="left" alt="HTML5" width="26px" src="https://file.io/rc86sm1tkkzV" />](https://www.b4x.com/b4a.html)
-[<img align="left" alt="CSS3" width="40px" src="https://file.io/0lUG9aEJEYq1" />](https://www.oracle.com/java/technologies/)
-
+[<img align="left" alt="Android Studio" width="26px" src="https://file.io/ZROrFL325v41" />](https://developer.android.com/studio)
+[<img align="left" alt="B4A" width="26px" src="https://file.io/AGEGAsaAmv2c" />](https://www.b4x.com/b4a.html)
+[<img align="left" alt="Java" width="40px" src="https://file.io/ZyTdMCRjEs8P" />](https://www.oracle.com/java/technologies/)
+[<img align="left" alt="Kotlin" width="26px" src="https://file.io/B9JroCd4zKf4" />](https://kotlinlang.org)
+[<img align="left" alt="Git" width="40px" src="https://file.io/CRuCZc1Y71ZS" />](https://git-scm.com/)
 
 <br />
 <br />
@@ -36,6 +37,7 @@
 <!-- YOUTUBE:START -->
 
 [Button On Click Listener With Toast|Android Studio Tutorial](https://youtu.be/QkVcLJ5aQR4)
+[Custom Button|Android Studio Tutorial](https://youtu.be/uFT4SRU2x6Y)
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC-MpdWkXlHi_k3QO42NMqLA?view_as=subscriber)
 
@@ -46,7 +48,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [CustomToast](https://github.com/AliHejazi1382/CustomToast)
 - [StandardSettings](https://github.com/AliHejazi1382/StandardSetting)
-- [CustomTextView](https://github.com/AliHejazi1382/CustomTextView)
+- [EncryptedDataSavingKotlinAndJava](https://github.com/AliHejazi1382/EncryptedDataSavingKotlinAndJava)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more Reposetories...](https://github.com/AliHejazi1382?tab=repositories)
