@@ -1,11 +1,11 @@
 ### Hi there, Ali Hejazi  👋
 
 
-## I'm a Android Developer!!
+## I'm an Android Developer!!
 
-- 🔭 I just made my YouTube: [CodingWithPhantom](https://www.youtube.com/channel/UC-MpdWkXlHi_k3QO42NMqLA?view_as=subscriber)!
+- 🔭 I'm learning electrical engineering at Shahid Beheshti University
 - 🌱 I’m currently learning everything to be a better developer 💪
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to solve phisics problem!!
 
 
