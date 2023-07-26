@@ -25,7 +25,7 @@
 [<img align="left" alt="B4A" width="26px" src="https://file.io/AGEGAsaAmv2c" />](https://www.b4x.com/b4a.html)
 [<img align="left" alt="Java" width="40px" src="https://file.io/ZyTdMCRjEs8P" />](https://www.oracle.com/java/technologies/)
 [<img align="left" alt="Kotlin" width="26px" src="https://file.io/B9JroCd4zKf4" />](https://kotlinlang.org)
-[<img align="left" alt="Git" width="40px" src="https://file.io/CRuCZc1Y71ZS" />](https://git-scm.com/)
+[<img align="left" alt="Git" width="40px" src="[https://file.io/CRuCZc1Y71ZS](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGit_icon.svg&psig=AOvVaw3ps7TjFrpdqNXdBbV38-fg&ust=1690440328839000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDwgo3jq4ADFQAAAAAdAAAAABAE)" />](https://git-scm.com/)
 
 <br />
 <br />
