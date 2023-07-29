@@ -1,72 +1,29 @@
-### Hi there, Ali Hejazi  👋
+<h1 align="center">Hi 👋, I'm Ali</h1>
+<h3 align="center">Android Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alihejazi1382&label=Profile%20views&color=0e75b6&style=flat" alt="alihejazi1382" /> </p>
 
-## I'm an Android Developer!!
+- 🌱 I’m currently learning **Jetpack Compose**
 
-- 🔭 I'm learning electrical engineering at Shahid Beheshti University
-- 🌱 I’m currently learning everything to be a better developer 💪
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to solve phisics problem!!
+- 👨‍💻 All of my projects are available at [https://github.com/AliHejazi1382?tab=repositories](https://github.com/AliHejazi1382?tab=repositories)
 
+- 💬 Ask me about **Java, Android, Kotlin**
 
+- 📫 How to reach me **mrhjz08@gmail.com**
 
-### Connect with me:
+- ⚡ Fun fact **I love solve physics problem!!**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ali-hejazi-3b36781a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali hejazi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC-MpdWkXlHi_k3QO42NMqLA?view_as=subscriber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingwithphantom" height="30" width="40" /></a>
+</p>
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC-MpdWkXlHi_k3QO42NMqLA?view_as=subscriber)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ali-hejazi-3b36781a3/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alihejazi1382&show_icons=true&locale=en&layout=compact" alt="alihejazi1382" /></p>
 
-<br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alihejazi1382&show_icons=true&locale=en" alt="alihejazi1382" /></p>
 
-### Languages and Tools:
-
-[<img align="left" alt="Android Studio" width="26px" src="https://file.io/ZROrFL325v41" />](https://developer.android.com/studio)
-[<img align="left" alt="B4A" width="26px" src="https://file.io/AGEGAsaAmv2c" />](https://www.b4x.com/b4a.html)
-[<img align="left" alt="Java" width="40px" src="https://file.io/ZyTdMCRjEs8P" />](https://www.oracle.com/java/technologies/)
-[<img align="left" alt="Kotlin" width="26px" src="https://file.io/B9JroCd4zKf4" />](https://kotlinlang.org)
-[<img align="left" alt="Git" width="40px" src="[https://file.io/CRuCZc1Y71ZS](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGit_icon.svg&psig=AOvVaw3ps7TjFrpdqNXdBbV38-fg&ust=1690440328839000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDwgo3jq4ADFQAAAAAdAAAAABAE)" />](https://git-scm.com/)
-
-<br />
-<br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-
-[Button On Click Listener With Toast|Android Studio Tutorial](https://youtu.be/QkVcLJ5aQR4)
-
-[Custom Button|Android Studio Tutorial](https://youtu.be/uFT4SRU2x6Y)
-
-➡️ [more videos...](https://www.youtube.com/channel/UC-MpdWkXlHi_k3QO42NMqLA?view_as=subscriber)
-
----
-
-### 📕 Latest Reposetories
-
-<!-- BLOG-POST-LIST:START -->
-- [CustomToast](https://github.com/AliHejazi1382/CustomToast)
-- [StandardSettings](https://github.com/AliHejazi1382/StandardSetting)
-- [EncryptedDataSavingKotlinAndJava](https://github.com/AliHejazi1382/EncryptedDataSavingKotlinAndJava)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more Reposetories...](https://github.com/AliHejazi1382?tab=repositories)
-
----
-
-
-
-
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alihejazi1382&" alt="alihejazi1382" /></p>
