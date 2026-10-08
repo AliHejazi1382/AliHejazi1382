@@ -133,9 +133,6 @@ Key components:
   <a href="mailto:mrhjz08@gmail.com">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="30" width="40"/>
   </a>
-  <a href="https://www.youtube.com/channel/UC-MpdWkXlHi_k3QO42NMqLA" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
 </p>
 
 ---
